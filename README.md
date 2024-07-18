@@ -1,3 +1,3 @@
-Acree-Intro
+acree-bio-readme
 
 Hi, my name is Acree Tejada. I am 17 years old and will be attending Lawrence University this fall. Growing up I've always been into technology and wondered how they work. Now I am currenlty working with The Knowledge House, which is helping me understand more about technology and coding. I am currently learning HTML & CSS, while learning design. With this, I aspire to become a Software Developer in the near future and achieve a flexible/stable job.
